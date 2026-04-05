@@ -83,13 +83,10 @@ upgrade_log.txt
 
 .python-version
 
-# MCP Server Logs
+# MCP Server
 /unity-mcp-server-win-x64/win-x64/logs/*
 /unity-mcp-server-win-x64/win-x64/aspnetcorev2_inprocess.dll
 /unity-mcp-server-win-x64/win-x64/unity-mcp-server.exe
-
-# OpenCode Skills
-/.opencode
 
 # Test scripts and results
 test-*.ps1
@@ -102,3 +99,4 @@ mcp-test-*.txt
 # Downloaded archives
 *.zip
 unity-mcp-server-win-x64.zip
+
