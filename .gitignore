@@ -100,3 +100,16 @@ mcp-test-*.txt
 *.zip
 unity-mcp-server-win-x64.zip
 
+# Auto-generated Unity MCP skills
+.opencode/skills/
+
+# Local configuration files
+.mcp.json
+opencode.json
+.vscode/
+
+# Unity MCP Server config files
+unity-mcp-server-win-x64/win-x64/*.config
+unity-mcp-server-win-x64/win-x64/*.json
+unity-mcp-server-win-x64/win-x64/web.config
+
