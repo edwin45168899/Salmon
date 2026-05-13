@@ -105,6 +105,7 @@ unity-mcp-server-win-x64.zip
 .mcp.json
 opencode.json
 .vscode/
+ProjectSettings/McpUnitySettings.json
 
 
 
